@@ -110,6 +110,3 @@ The system uses the following database tables:
 - **Import Errors**: Make sure you have proper permissions to create and modify databases
 - **PHP Errors**: Check XAMPP's PHP error logs at `C:\xampp\php\logs\` (Windows) or `/Applications/XAMPP/logs/` (Mac)
 
-## License
-
-This project is open-source and available for educational purposes.
